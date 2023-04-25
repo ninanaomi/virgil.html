@@ -1,6 +1,6 @@
 #parent {
   white-space: nowrap;
-  flex-direction: row;
+  flex-direction: row space-between;
 }
 .child {
   display: inline-block;
