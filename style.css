@@ -1,8 +1,7 @@
 #parent {
   white-space: wrap;
   width: 100%;
-  display: flex;
-  flex-direction: space-between;
+  flex-direction: row space-between;
   justify-content: space-between;
 }
 .child {
