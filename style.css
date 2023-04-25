@@ -1,7 +1,10 @@
 #parent {
   white-space: nowrap;
+  width: 100%;
   display: flex;
+  justify-content: flex-start;
   flex-direction: row space-between;
+  margin: 1em;
 }
 .child {
   display: inline-block;
