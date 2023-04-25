@@ -1,11 +1,6 @@
 #parent {
-  white-space: wrap;
-  width: 100%;
-  flex-direction: row space-between;
-  display: flex;
-  justify-content: space-evenly;
+  white-space: nowrap;
 }
 .child {
   display: inline-block;
-  padding: 50%;
 }
